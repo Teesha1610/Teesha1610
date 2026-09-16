@@ -1,31 +1,7 @@
-# This is a header
+﻿# Teesha Mehta
 
-This is some text
+Building backend systems in Python. Recent work:
 
-heare is a list item
-
-### Main types of computer classes:
-- Embedded Computers
-- Personal Computers (PC)
-- Servers and Cloud 
-- Super Computers
-Each of those computers grows in compute power, storage, and size as we go down the list.
-
-### 8 great ideas in computer architecture
-- Design for (Gordon) Moore's law
-- Use abstraction to simplify design
-- Make the common case fast
-- Hierarchy of memories
-- Performance via parallelism
-- Performance via pipelining
-- Performance via prediction
-- Dependability via redundancy
-
-### Computer organization/architecture hierarchy
- 1. Application
- 2. Algorithm
- 3. Programming Language
- 4. Operating System / Complier / Assembler
- 5. Instruction Set Architecture
- 6. Microarchitecture
- 7. Register-Transfer Level
+- **[taskhive](https://github.com/Teesha1610/taskhive)** — durable task queue on a single SQLite file. At-least-once delivery, lease-based crash recovery, jittered retries. 107 tests, strict mypy, CI across Linux, macOS and Windows.
+- **[github-analytics-dashboard](https://github.com/Teesha1610/github-analytics-dashboard)** — repository metrics from the GitHub REST API: commit trends, bus factor, PR cycle time. ETag caching and rate-limit handling, browser dashboard plus a Node CLI.
+- **[local-ai-assistant](https://github.com/Teesha1610/local-ai-assistant)** — private assistant on local Ollama models, with retrieval over your own files and prompt-injection guardrails on retrieved content.
